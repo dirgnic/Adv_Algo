@@ -1,2 +1,2 @@
-# teme_AA
+# AA
 repo for my advanced algo class
