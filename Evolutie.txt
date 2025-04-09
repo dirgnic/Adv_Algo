@@ -1,0 +1,303 @@
+Populația Inițială: 
+Individ 1: B = 0101011110100010110001, X = 0.026982, f(X) = 2.026254
+Individ 2: B = 1011011000100101100110, X = 1.134534, f(X) = 1.847367
+Individ 3: B = 1011111010111001111001, X = 1.235072, f(X) = 1.709669
+Individ 4: B = 0011011000010101000010, X = -0.366225, f(X) = 1.499655
+Individ 5: B = 0110001001100010000011, X = 0.152926, f(X) = 2.129540
+Individ 6: B = 1010110101000011011110, X = 1.030433, f(X) = 1.968641
+Individ 7: B = 1110001011011011111001, X = 1.658504, f(X) = 0.907869
+Individ 8: B = 1000110110100000011001, X = 0.659686, f(X) = 2.224500
+Individ 9: B = 1010000101100000000100, X = 0.891117, f(X) = 2.097028
+Individ 10: B = 1101100110100000111110, X = 1.550338, f(X) = 1.146790
+Individ 11: B = 0111001100000011010001, X = 0.347806, f(X) = 2.226837
+Individ 12: B = 1000111000101000100100, X = 0.665920, f(X) = 2.222471
+Individ 13: B = 1001001100000111111110, X = 0.723021, f(X) = 2.200261
+Individ 14: B = 0010001110001111111101, X = -0.583254, f(X) = 1.076561
+Individ 15: B = 0001101000111110111010, X = -0.692433, f(X) = 0.828104
+Individ 16: B = 0100100101001101001010, X = -0.140999, f(X) = 1.839120
+Individ 17: B = 0000000000110001111010, X = -0.997715, f(X) = 0.006848
+Individ 18: B = 1011000010011000101110, X = 1.069491, f(X) = 1.925680
+Individ 19: B = 0111111000111110110011, X = 0.479437, f(X) = 2.249577
+Individ 20: B = 1101101001100111110010, X = 1.559439, f(X) = 1.127589
+
+Probabilități de Selecție: 
+Individ 1: f(X) = 2.026254, p = 0.060921
+Individ 2: f(X) = 1.847367, p = 0.055543
+Individ 3: f(X) = 1.709669, p = 0.051403
+Individ 4: f(X) = 1.499655, p = 0.045088
+Individ 5: f(X) = 2.129540, p = 0.064026
+Individ 6: f(X) = 1.968641, p = 0.059189
+Individ 7: f(X) = 0.907869, p = 0.027296
+Individ 8: f(X) = 2.224500, p = 0.066881
+Individ 9: f(X) = 2.097028, p = 0.063049
+Individ 10: f(X) = 1.146790, p = 0.034479
+Individ 11: f(X) = 2.226837, p = 0.066952
+Individ 12: f(X) = 2.222471, p = 0.066820
+Individ 13: f(X) = 2.200261, p = 0.066153
+Individ 14: f(X) = 1.076561, p = 0.032368
+Individ 15: f(X) = 0.828104, p = 0.024898
+Individ 16: f(X) = 1.839120, p = 0.055295
+Individ 17: f(X) = 0.006848, p = 0.000206
+Individ 18: f(X) = 1.925680, p = 0.057897
+Individ 19: f(X) = 2.249577, p = 0.067635
+Individ 20: f(X) = 1.127589, p = 0.033902
+
+Probabilități Cumulate: 
+q0 = 0
+q1 = 0.060921
+q2 = 0.116464
+q3 = 0.167866
+q4 = 0.212955
+q5 = 0.276981
+q6 = 0.336170
+q7 = 0.363466
+q8 = 0.430347
+q9 = 0.493396
+q10 = 0.527875
+q11 = 0.594827
+q12 = 0.661647
+q13 = 0.727800
+q14 = 0.760167
+q15 = 0.785065
+q16 = 0.840360
+q17 = 0.840566
+q18 = 0.898463
+q19 = 0.966098
+q20 = 1.000000
+
+Procesul de Selecție (prima generație): 
+u = 0.662113 se încadrează în intervalul [0.661647, 0.727800) => se selectează cromozomul 13
+u = 0.522766 se încadrează în intervalul [0.493396, 0.527875) => se selectează cromozomul 10
+u = 0.539184 se încadrează în intervalul [0.527875, 0.594827) => se selectează cromozomul 11
+u = 0.959189 se încadrează în intervalul [0.898463, 0.966098) => se selectează cromozomul 19
+u = 0.578556 se încadrează în intervalul [0.527875, 0.594827) => se selectează cromozomul 11
+u = 0.680368 se încadrează în intervalul [0.661647, 0.727800) => se selectează cromozomul 13
+u = 0.001920 se încadrează în intervalul [0.000000, 0.060921) => se selectează cromozomul 1
+u = 0.754320 se încadrează în intervalul [0.727800, 0.760167) => se selectează cromozomul 14
+u = 0.059995 se încadrează în intervalul [0.000000, 0.060921) => se selectează cromozomul 1
+u = 0.498103 se încadrează în intervalul [0.493396, 0.527875) => se selectează cromozomul 10
+u = 0.841790 se încadrează în intervalul [0.840566, 0.898463) => se selectează cromozomul 18
+u = 0.361217 se încadrează în intervalul [0.336170, 0.363466) => se selectează cromozomul 7
+u = 0.177164 se încadrează în intervalul [0.167866, 0.212955) => se selectează cromozomul 4
+u = 0.278764 se încadrează în intervalul [0.276981, 0.336170) => se selectează cromozomul 6
+u = 0.553473 se încadrează în intervalul [0.527875, 0.594827) => se selectează cromozomul 11
+u = 0.726813 se încadrează în intervalul [0.661647, 0.727800) => se selectează cromozomul 13
+u = 0.708173 se încadrează în intervalul [0.661647, 0.727800) => se selectează cromozomul 13
+u = 0.761114 se încadrează în intervalul [0.760167, 0.785065) => se selectează cromozomul 15
+u = 0.234015 se încadrează în intervalul [0.212955, 0.276981) => se selectează cromozomul 5
+
+Elitism: Individul cu cel mai mare fitness este: B = 0111111000111110110011, X = 0.479437, f(X) = 2.249577
+
+Procesul de Încrucișare (prima generație): 
+Fără crossover pentru perechea 1001001100000111111110 și 0101011110100010110001
+Fără crossover pentru perechea 1101100110100000111110 și 0111001100000011010001
+Fără crossover pentru perechea 0101011110100010110001 și 0111001100000011010001
+Crossover între 1011000010011000101110 și 0111001100000011010001 la punctul 13
+Rezultat crossover: 1011000010011011010001 și 0111001100000000101110
+Crossover între 0111111000111110110011 și 0010001110001111111101 la punctul 1
+Rezultat crossover: 0010001110001111111101 și 0111111000111110110011
+Fără crossover pentru perechea 1101100110100000111110 și 1110001011011011111001
+Fără crossover pentru perechea 0110001001100010000011 și 1010110101000011011110
+Fără crossover pentru perechea 0001101000111110111010 și 1001001100000111111110
+Fără crossover pentru perechea 1001001100000111111110 și 0011011000010101000010
+
+Populația după Încrucișare:
+Individ 1: B = 1001001100000111111110, X = 0.723021, f(X) = 2.200261
+Individ 2: B = 0101011110100010110001, X = 0.026982, f(X) = 2.026254
+Individ 3: B = 1101100110100000111110, X = 1.550338, f(X) = 1.146790
+Individ 4: B = 0111001100000011010001, X = 0.347806, f(X) = 2.226837
+Individ 5: B = 0101011110100010110001, X = 0.026982, f(X) = 2.026254
+Individ 6: B = 0111001100000011010001, X = 0.347806, f(X) = 2.226837
+Individ 7: B = 1011000010011011010001, X = 1.069608, f(X) = 1.925547
+Individ 8: B = 0111001100000000101110, X = 0.347689, f(X) = 2.226802
+Individ 9: B = 0010001110001111111101, X = -0.583254, f(X) = 1.076561
+Individ 10: B = 0111111000111110110011, X = 0.479437, f(X) = 2.249577
+Individ 11: B = 1101100110100000111110, X = 1.550338, f(X) = 1.146790
+Individ 12: B = 1110001011011011111001, X = 1.658504, f(X) = 0.907869
+Individ 13: B = 0110001001100010000011, X = 0.152926, f(X) = 2.129540
+Individ 14: B = 1010110101000011011110, X = 1.030433, f(X) = 1.968641
+Individ 15: B = 0001101000111110111010, X = -0.692433, f(X) = 0.828104
+Individ 16: B = 1001001100000111111110, X = 0.723021, f(X) = 2.200261
+Individ 17: B = 1001001100000111111110, X = 0.723021, f(X) = 2.200261
+Individ 18: B = 0011011000010101000010, X = -0.366225, f(X) = 1.499655
+Individ 19: B = 1001001100000111111110, X = 0.723021, f(X) = 2.200261
+Individ 20: B = 0111111000111110110011, X = 0.479437, f(X) = 2.249577
+
+ Procesul de Mutație (prima generație): 
+Mutație: 0101011110100010110001 – bitul de la poziția 14 schimbat din 1 în 0
+Mutație: 1101100110100000111110 – bitul de la poziția 13 schimbat din 0 în 1
+Mutație: 1011000010011011010001 – bitul de la poziția 21 schimbat din 1 în 0
+Mutație: 1010110101000011011110 – bitul de la poziția 7 schimbat din 1 în 0
+Mutație: 1010110101000011011110 – bitul de la poziția 17 schimbat din 1 în 0
+
+Populația după Mutație:
+Individ 1: B = 1001001100000111111110, X = 0.723021, f(X) = 2.200261
+Individ 2: B = 0101011110100000110001, X = 0.026891, f(X) = 2.026168
+Individ 3: B = 1101100110100100111110, X = 1.550521, f(X) = 1.146406
+Individ 4: B = 0111001100000011010001, X = 0.347806, f(X) = 2.226837
+Individ 5: B = 0101011110100010110001, X = 0.026982, f(X) = 2.026254
+Individ 6: B = 0111001100000011010001, X = 0.347806, f(X) = 2.226837
+Individ 7: B = 1011000010011011010000, X = 1.069607, f(X) = 1.925548
+Individ 8: B = 0111001100000000101110, X = 0.347689, f(X) = 2.226802
+Individ 9: B = 0010001110001111111101, X = -0.583254, f(X) = 1.076561
+Individ 10: B = 0111111000111110110011, X = 0.479437, f(X) = 2.249577
+Individ 11: B = 1101100110100000111110, X = 1.550338, f(X) = 1.146790
+Individ 12: B = 1110001011011011111001, X = 1.658504, f(X) = 0.907869
+Individ 13: B = 0110001001100010000011, X = 0.152926, f(X) = 2.129540
+Individ 14: B = 1010110001000011001110, X = 1.018703, f(X) = 1.980948
+Individ 15: B = 0001101000111110111010, X = -0.692433, f(X) = 0.828104
+Individ 16: B = 1001001100000111111110, X = 0.723021, f(X) = 2.200261
+Individ 17: B = 1001001100000111111110, X = 0.723021, f(X) = 2.200261
+Individ 18: B = 0011011000010101000010, X = -0.366225, f(X) = 1.499655
+Individ 19: B = 1001001100000111111110, X = 0.723021, f(X) = 2.200261
+Individ 20: B = 0111111000111110110011, X = 0.479437, f(X) = 2.249577
+
+ Rezumat Generația 0: 
+Max Fitness = 2.249577, Mean Fitness = 1.833726
+
+ Rezumat Generația 1: 
+Max Fitness = 2.249577, Mean Fitness = 1.860140
+
+ Rezumat Generația 2: 
+Max Fitness = 2.249577, Mean Fitness = 2.026988
+
+ Rezumat Generația 3: 
+Max Fitness = 2.249922, Mean Fitness = 2.139839
+
+ Rezumat Generația 4: 
+Max Fitness = 2.249988, Mean Fitness = 2.121267
+
+ Rezumat Generația 5: 
+Max Fitness = 2.249988, Mean Fitness = 2.164692
+
+ Rezumat Generația 6: 
+Max Fitness = 2.249989, Mean Fitness = 2.171837
+
+ Rezumat Generația 7: 
+Max Fitness = 2.249989, Mean Fitness = 2.115119
+
+ Rezumat Generația 8: 
+Max Fitness = 2.249989, Mean Fitness = 2.071192
+
+ Rezumat Generația 9: 
+Max Fitness = 2.249989, Mean Fitness = 2.173529
+
+ Rezumat Generația 10: 
+Max Fitness = 2.249989, Mean Fitness = 2.153453
+
+ Rezumat Generația 11: 
+Max Fitness = 2.249989, Mean Fitness = 2.174246
+
+ Rezumat Generația 12: 
+Max Fitness = 2.249989, Mean Fitness = 2.207003
+
+ Rezumat Generația 13: 
+Max Fitness = 2.249989, Mean Fitness = 2.192779
+
+ Rezumat Generația 14: 
+Max Fitness = 2.249989, Mean Fitness = 2.077355
+
+ Rezumat Generația 15: 
+Max Fitness = 2.249989, Mean Fitness = 2.128707
+
+ Rezumat Generația 16: 
+Max Fitness = 2.249989, Mean Fitness = 2.195044
+
+ Rezumat Generația 17: 
+Max Fitness = 2.249989, Mean Fitness = 2.182253
+
+ Rezumat Generația 18: 
+Max Fitness = 2.249989, Mean Fitness = 2.214315
+
+ Rezumat Generația 19: 
+Max Fitness = 2.249989, Mean Fitness = 2.039382
+
+ Rezumat Generația 20: 
+Max Fitness = 2.249994, Mean Fitness = 2.094830
+
+ Rezumat Generația 21: 
+Max Fitness = 2.249994, Mean Fitness = 2.107768
+
+ Rezumat Generația 22: 
+Max Fitness = 2.249994, Mean Fitness = 2.118248
+
+ Rezumat Generația 23: 
+Max Fitness = 2.249994, Mean Fitness = 2.227782
+
+ Rezumat Generația 24: 
+Max Fitness = 2.249994, Mean Fitness = 2.208209
+
+ Rezumat Generația 25: 
+Max Fitness = 2.249994, Mean Fitness = 2.228819
+
+ Rezumat Generația 26: 
+Max Fitness = 2.249994, Mean Fitness = 2.246122
+
+ Rezumat Generația 27: 
+Max Fitness = 2.249999, Mean Fitness = 2.242277
+
+ Rezumat Generația 28: 
+Max Fitness = 2.249999, Mean Fitness = 2.232782
+
+ Rezumat Generația 29: 
+Max Fitness = 2.249999, Mean Fitness = 2.234213
+
+ Rezumat Generația 30: 
+Max Fitness = 2.249999, Mean Fitness = 2.123067
+
+ Rezumat Generația 31: 
+Max Fitness = 2.249999, Mean Fitness = 2.233315
+
+ Rezumat Generația 32: 
+Max Fitness = 2.249999, Mean Fitness = 2.232906
+
+ Rezumat Generația 33: 
+Max Fitness = 2.249999, Mean Fitness = 2.141270
+
+ Rezumat Generația 34: 
+Max Fitness = 2.249999, Mean Fitness = 2.207657
+
+ Rezumat Generația 35: 
+Max Fitness = 2.249999, Mean Fitness = 2.208371
+
+ Rezumat Generația 36: 
+Max Fitness = 2.249999, Mean Fitness = 2.205573
+
+ Rezumat Generația 37: 
+Max Fitness = 2.249999, Mean Fitness = 2.241996
+
+ Rezumat Generația 38: 
+Max Fitness = 2.249999, Mean Fitness = 2.203074
+
+ Rezumat Generația 39: 
+Max Fitness = 2.249999, Mean Fitness = 2.206343
+
+ Rezumat Generația 40: 
+Max Fitness = 2.249999, Mean Fitness = 2.223451
+
+ Rezumat Generația 41: 
+Max Fitness = 2.249999, Mean Fitness = 2.221151
+
+ Rezumat Generația 42: 
+Max Fitness = 2.249999, Mean Fitness = 2.203390
+
+ Rezumat Generația 43: 
+Max Fitness = 2.249999, Mean Fitness = 2.241576
+
+ Rezumat Generația 44: 
+Max Fitness = 2.249999, Mean Fitness = 2.149131
+
+ Rezumat Generația 45: 
+Max Fitness = 2.249999, Mean Fitness = 2.150903
+
+ Rezumat Generația 46: 
+Max Fitness = 2.249999, Mean Fitness = 2.244112
+
+ Rezumat Generația 47: 
+Max Fitness = 2.249999, Mean Fitness = 1.940135
+
+ Rezumat Generația 48: 
+Max Fitness = 2.249999, Mean Fitness = 2.147754
+
+ Rezumat Generația 49: 
+Max Fitness = 2.249999, Mean Fitness = 2.244372
